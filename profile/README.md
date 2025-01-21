@@ -1,19 +1,13 @@
 ![GoWired logo](https://github.com/GoWired/.github/blob/master/images/logo-white-background.png)
 # Welcome to **GoWired** 👋
 
-**Your gateway to open-source home automation solutions.** We are dedicated to developing and sharing hardware and software that empower homeowners and enthusiasts to create reliable, efficient, and customizable smart home systems. 🏠
-
-## **Our Mission** 
-At GoWired, we believe in the power of open-source innovation to transform home automation. Our goal is to provide accessible, high-quality solutions that integrate seamlessly into your living spaces, enhancing comfort and control. 🕹️
+At GoWired, we believe in the power of open-source innovation to transform home automation. We are dedicated to developing and sharing hardware and software that empower homeowners and enthusiasts to create reliable, efficient, and customizable smart home systems. 🏠 Our goal is to provide accessible, high-quality solutions that integrate seamlessly into your living spaces, enhancing comfort and control. We focus on decentralization, bus communication and efficiency. 🕹️
 
 ## **Our Projects** 
 Explore our repositories to discover a range of projects designed with a focus on wired communication and open protocols: 
 - **[GoWired LED Controller HD](https://github.com/GoWired/LED-Controller-HD)** Our current flagship project—a professional-grade, multi-channel, high-load LED controller based on ESP32-C6. Wired communication included.
 - **[GoWired-Project](https://github.com/GoWired/GoWired-Project)** Decentralized architecture, bus communication, varied functionality home automation modules. **Successfully crowdfounded in 2020**.
 - **[GoWired Touch](https://github.com/GoWired/Touch)** GoWired based touch buttons with built-in home automation modules. Decentralization, bus communication, and modern, minimalist design.
-
-## **Join Our Community** 
-We invite developers, hobbyists, and home automation enthusiasts to collaborate with us. By contributing to our projects, you become part of a community striving to advance open-source home automation. 🤝
 
 ## **Get Involved** 
 - **Explore** our repositories to find projects that interest you. 🔍
