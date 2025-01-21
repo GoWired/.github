@@ -1,4 +1,4 @@
-![GoWired logo]([https://github.com/GoWired/LED-Controller-HD](https://github.com/GoWired/.github/blob/master/images/logo-white-background.png))
+![GoWired logo](https://github.com/GoWired/.github/blob/master/images/logo-white-background.png)
 # Welcome to **GoWired** 👋
 
 **Your gateway to open-source home automation solutions.** We are dedicated to developing and sharing hardware and software that empower homeowners and enthusiasts to create reliable, efficient, and customizable smart home systems. 🏠
