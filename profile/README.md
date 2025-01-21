@@ -1,7 +1,8 @@
-![GoWired logo](https://github.com/GoWired/.github/blob/master/images/logo-white-background.png)
 # Welcome to **GoWired** 👋
 
-At GoWired, we believe in the power of open-source innovation to transform home automation. We are dedicated to developing and sharing hardware and software that empower homeowners and enthusiasts to create reliable, efficient, and customizable smart home systems. 🏠 Our goal is to provide accessible, high-quality solutions that integrate seamlessly into your living spaces, enhancing comfort and control. We focus on decentralization, bus communication and efficiency. 🕹️
+At GoWired, we believe in the power of open-source innovation to transform home automation. ⚙️ We are dedicated to developing and sharing hardware and software that empower homeowners and enthusiasts to create reliable, efficient, and customizable smart home systems. 🏠 Our goal is to provide accessible, high-quality solutions that integrate seamlessly into your living spaces, enhancing comfort and control. We focus on decentralization, bus communication and efficiency. 🕹️
+
+![GoWired logo](https://github.com/GoWired/.github/blob/master/images/logo-white-background-small.png)
 
 ## **Our Projects** 
 Explore our repositories to discover a range of projects designed with a focus on wired communication and open protocols: 
